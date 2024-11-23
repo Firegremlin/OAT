@@ -31,18 +31,18 @@ Core techincal features to meet the mission:
 
 # Target Performance
 
-Wing span: 22 feet
-Width with outer wing panels removed: under 8.5 feet
-Length: Under 20 feet
-Empty weight: 800lb
-Max gross weight: 1350lb
-Cruise speed: 120kt at sea level
-Max speed: 140kt at sea level
-Engine power: 40-50hp each
-Fuel capacity: 20 gallons 
-Fuel burn: 4gph
-Range: 500 miles
-Stall speed: 50kt flaps down
+- Wing span: 22 feet
+- Width with outer wing panels removed: under 8.5 feet
+- Length: Under 20 feet
+- Empty weight: 800lb
+- Max gross weight: 1350lb
+- Cruise speed: 120kt at sea level
+- Max speed: 140kt at sea level
+- Engine power: 40-50hp each
+- Fuel capacity: 20 gallons 
+- Fuel burn: 4gph
+- Range: 500 miles
+- Stall speed: 50kt flaps down
 
 
 
